@@ -9,7 +9,8 @@ body {
   background: #cbd0d8;
 }
 .navbar {
-  background: #333d51;
+  /* background: #333d51; */
+  background-color: #fff;
   height: 80px;
   display: flex;
   justify-content: center;
